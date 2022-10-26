@@ -12,7 +12,7 @@ class Arcoiris extends React.Component {
 	}
 	getSnapshotBeforeUpdate(prevProps, prevState) {
 	  document.getElementById("div1").innerHTML =
-	  "Before the update, the favorite was " + prevState.favoritecolor;
+	  "Before the update, the favoriteee was " + prevState.favoritecolor;
 	}
 	componentDidUpdate() {
 	  document.getElementById("div2").innerHTML =
