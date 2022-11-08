@@ -20,7 +20,7 @@ function App() {
     <div>
       <Titulo titulo = "FATEC" texto ="Faculdade de Tecnologia de Presidente Prudente" link = "https://www.fatecpp.edu.br"/>
       <Titulo2 />
-      <Tabuada />
+      <Tabuada numero="5"/>
       <Cores />
       <Mensagem />
       <Header />

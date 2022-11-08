@@ -1,6 +1,7 @@
 import React from 'react';
 
 class Arcoiris extends React.Component {
+
 	constructor(props) {
 	  super(props);
 	  this.state = {favoritecolor: "red"};
@@ -29,7 +30,5 @@ class Arcoiris extends React.Component {
 	}
   }
   
-  const root = ReactDOM.createRoot(document.getElementById('root'));
-  root.render(<Header />);
 
   export default Arcoiris;
