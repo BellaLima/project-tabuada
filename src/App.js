@@ -13,8 +13,8 @@ import Atualizar from './Atualizar';
 import Arcoiris from './Arcoiris';
 import Hello from './Hello';
 
-
 function App() {
+ 
   return (
     <center>
     <div>
