@@ -1,4 +1,3 @@
-import { render } from '@testing-library/react/dist/pure';
 import React from 'react';
 
 class Mensagem extends React.Component {
