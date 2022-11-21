@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-tabuada/static/css/main.abd64e84.css",
+    "main.js": "/project-tabuada/static/js/main.49d2579d.js",
+    "index.html": "/project-tabuada/index.html",
+    "main.abd64e84.css.map": "/project-tabuada/static/css/main.abd64e84.css.map",
+    "main.49d2579d.js.map": "/project-tabuada/static/js/main.49d2579d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.49d2579d.js"
+  ]
+}
