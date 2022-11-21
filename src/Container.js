@@ -1,5 +1,6 @@
 import React from 'react';
 
+// eslint-disable-next-line
 class Container extends React.Component {
     constructor(props) {
         super(props);
